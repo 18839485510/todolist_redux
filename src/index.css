@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.App{
+    width: 910px;
+    margin: 50px auto;
+}
+.App .ant-list-items .ant-list-item:hover{
+    cursor: pointer;
+}
